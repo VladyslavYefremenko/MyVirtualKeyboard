@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVirtualKeyboardPresentation", "MyVirtualKeyboardPresentation\MyVirtualKeyboardPresentation.csproj", "{9EB22D8A-67BD-4099-98E5-30815A0B5DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyVirtualKeyboardControl", "MyVirtualKeyboardControl\MyVirtualKeyboardControl.csproj", "{ED359E2B-AB22-4BE1-BFED-CA4405509159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EB22D8A-67BD-4099-98E5-30815A0B5DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EB22D8A-67BD-4099-98E5-30815A0B5DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EB22D8A-67BD-4099-98E5-30815A0B5DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EB22D8A-67BD-4099-98E5-30815A0B5DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED359E2B-AB22-4BE1-BFED-CA4405509159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED359E2B-AB22-4BE1-BFED-CA4405509159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED359E2B-AB22-4BE1-BFED-CA4405509159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED359E2B-AB22-4BE1-BFED-CA4405509159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BEEFBA8-9FC2-4A87-8CE3-3697D2D659A8}
+	EndGlobalSection
+EndGlobal

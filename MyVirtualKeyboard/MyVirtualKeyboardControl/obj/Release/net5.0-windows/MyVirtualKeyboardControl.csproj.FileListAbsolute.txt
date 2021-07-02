@@ -1,0 +1,17 @@
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\bin\Release\net5.0-windows\MyVirtualKeyboardControl.deps.json
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\bin\Release\net5.0-windows\MyVirtualKeyboardControl.dll
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\bin\Release\net5.0-windows\ref\MyVirtualKeyboardControl.dll
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\bin\Release\net5.0-windows\MyVirtualKeyboardControl.pdb
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl_MarkupCompile.cache
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl_MarkupCompile.lref
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\Themes\Generic.baml
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.g.resources
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.AssemblyInfoInputs.cache
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.AssemblyInfo.cs
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.csproj.CoreCompileInputs.cache
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.dll
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\ref\MyVirtualKeyboardControl.dll
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.pdb
+Z:\C#\MyVirtualKeyboard\MyVirtualKeyboardControl\obj\Release\net5.0-windows\MyVirtualKeyboardControl.csproj.AssemblyReference.cache
